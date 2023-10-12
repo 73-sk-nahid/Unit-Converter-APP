@@ -11,7 +11,7 @@ The Unit Converter Android Application is a simple utility that allows users to 
 
 ## Installation
 
-1. Clone or download the Unit Converter Android Application from the [GitHub repository](https://github.com/yourusername/unit-converter).
+1. Clone or download the Unit Converter Android Application from the [GitHub repository](https://github.com/73-sk-nahid/Unit-Converter-APP).
 2. Open the project in Android Studio.
 3. Build and run the app on your Android device or emulator.
 
